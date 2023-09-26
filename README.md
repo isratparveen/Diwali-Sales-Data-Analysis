@@ -1,6 +1,6 @@
-# Diwali-Sales-Data-Analysis
+# Festive-Sales-Data-Analysis
 # Objective: 
-To analyze and visualize a company's Diwali sales data to improve their customer's experience by analyzing sales data and increase the company's revenue.
+To analyze and visualize a company's Festive sales data to improve their customer's experience by analyzing sales data and increase the company's revenue.
 
 # Steps Involved:
 1. Data Collection
